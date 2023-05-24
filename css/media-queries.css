@@ -31,7 +31,7 @@
 }
 @media (max-width: 375px){
     .home-main .main-text{
-        margin-top: 5px;
+        margin-top: 0px;
     }
     .main-text h2{
         margin-bottom: 10px;
