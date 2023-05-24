@@ -30,10 +30,17 @@
     }
 }
 @media (max-width: 375px){
-    .home-main .main-text{
+    /* .home-main .main-text{
         margin-top: 0px;
     }
     .main-text h2{
         margin-bottom: 0px;
+    }  */
+    .home-body{
+        position: static;
     } 
+    .home-main{
+        width: 100vw;
+        height: 100vh;
+    }
 }
