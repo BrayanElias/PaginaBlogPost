@@ -1,4 +1,7 @@
 @media (max-width: 900px){
+    /* .home-body{
+        position: static;
+    } */
     .blogs-main-new{
         grid-template-columns: 1fr;
         grid-template-rows: 3fr;
@@ -25,4 +28,9 @@
     .blogs-posts-container .post-container{
         max-width: 95%;
     }
+}
+@media (max-width: 375px){
+    .main-text h2{
+        margin-bottom: 15px;
+    } 
 }
