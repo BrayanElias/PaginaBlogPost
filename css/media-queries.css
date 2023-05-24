@@ -33,4 +33,7 @@
     .main-text h2{
         margin-bottom: 15px;
     } 
+     .home-body{
+        position: static;
+    }
 }
